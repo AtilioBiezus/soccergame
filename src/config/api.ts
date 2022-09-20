@@ -1,4 +1,4 @@
-export const API_KEY = ""
+export const API_KEY = "d3c868b0-386d-11ed-b57b-af149fcf75a4"
 
 export const SOCCER_API_BASE_URL = "https://app.sportdataapi.com/api/v1/soccer"
 
